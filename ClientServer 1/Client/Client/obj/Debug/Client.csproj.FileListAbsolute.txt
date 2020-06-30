@@ -1,0 +1,10 @@
+F:\Michael\Programming\C#\Practise\ClientServer 1\Client\Client\bin\Debug\Client.exe.config
+F:\Michael\Programming\C#\Practise\ClientServer 1\Client\Client\bin\Debug\Client.exe
+F:\Michael\Programming\C#\Practise\ClientServer 1\Client\Client\bin\Debug\Client.pdb
+F:\Michael\Programming\C#\Practise\ClientServer 1\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\Michael\Programming\C#\Practise\ClientServer 1\Client\Client\obj\Debug\Client.Form1.resources
+F:\Michael\Programming\C#\Practise\ClientServer 1\Client\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Michael\Programming\C#\Practise\ClientServer 1\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\Michael\Programming\C#\Practise\ClientServer 1\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\Michael\Programming\C#\Practise\ClientServer 1\Client\Client\obj\Debug\Client.exe
+F:\Michael\Programming\C#\Practise\ClientServer 1\Client\Client\obj\Debug\Client.pdb
